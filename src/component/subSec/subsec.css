@@ -1,0 +1,21 @@
+.subsec-black {
+  background-color: black;
+  color: white;
+  padding: 25px;
+  font-family: "Cormorant SC", serif;
+}
+
+.subsec-black > h2 {
+  font-size: 70px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.subsec-black:hover {
+  transform: rotateX(0.12s);
+  transform: scale(1.04);
+  transition: 0.2s ease-in-out;
+}
+.lg-text {
+  font-size: 100px;
+}
